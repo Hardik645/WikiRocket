@@ -1,4 +1,4 @@
-# WikiRocket
+# [WikiRocket](https://tranquil-fudge-541922.netlify.app/)
 
 WikiRocket is a simple Next.js web application that allows users to search for information on Wikipedia. The application fetches data from Wikipedia using the Wikipedia API and displays the results in a user-friendly interface.
 
