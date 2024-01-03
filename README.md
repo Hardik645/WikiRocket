@@ -36,7 +36,7 @@ Make sure you have the following installed:
 ## Installation
 
 # Clone the repository
-git clone https://github.com/your-username/WikiRocket.git
+git clone https://github.com/Hardik645/WikiRocket.git
 
 # Navigate to the project directory
 cd WikiRocket
